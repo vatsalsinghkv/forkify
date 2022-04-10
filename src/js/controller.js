@@ -14,7 +14,7 @@ import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
 import paginationView from './views/paginationView.js';
 
-import 'core-js/stable'; // For polyfillin g (non-syntax: find: arrray methods etc) except async await
+import 'core-js/stable'; // For polyfilling transpiling (non-syntax: find: array methods etc) except async await
 import 'regenerator-runtime/runtime'; // For polyfilling async await
 import addRecipeView from './views/addRecipeView.js';
 
